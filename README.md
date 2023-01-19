@@ -18,12 +18,63 @@ Yes, the legend is true. I have been programming for about 5 years now and it no
 
 ### Skillsets
 
-*
+* JAVA
+  - Servlets 
+  - Applets 
+  - Networking 
+  - Databases 
+  - Data Structures 
+  - Algorithm efficiency
+* Kotlin
+* HTML
+* CSS 
+* JavaScript
+* Ruby
+  - SaaS
+  - RESTful API's
+* Linux Terminal 
+* Linux System Programming 
+* C programming 
+* Python 
+* BASH scripting 
+* IBM zOS Mainframe certified
+* Swift
+* Obective-C 
+
+### Toolset
+
+* Android Studio 
+* IntelliJ 
+* CLion
+* RubyMine 
+* Cmake 
+* Terminal 
+* VIM 
+* Ubuntu 
+* Mac 
+* Windows 
+
+### Technical Books read:
+
+* Java Programming by Daniel Liang
+* C Programming Absolute Beginners Guide by Greg Perry
+* C Programming Language Brian Kernighan and Dennis Ritchie 
+* Linux System Programming: Talking Directly to the Kernel and C Library by Robert Love 
+* Linux System Programming Techniques by Jack Benny Persson 
+* Engineering Software As a Service: An Agile Approach Using Cloud Computing Book by Armando Fox, David A Patterson, and David Patterson
+* Hacking - The art of exploitation by Jon Erikson 
+* Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
+* Operating Systems: Three Easy Pieces Book by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
+* Programming Languages by Allen B. Tucker
+* Assembly Language for X86 Processors by Kip R. Irvine
 
 
-### Books read:
+### Projects(non-exhaustive)
+* Chat desktop app 
+* Video Data Encryption desktop app
+* University Student Info Website and Database(Authenticated) 
 
-* Java Programming 
+
 
 <!--
 **winstonthewolf/winstonthewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
